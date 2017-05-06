@@ -1,7 +1,7 @@
-﻿<Application x:Class="BookMenager.App"
+﻿<Application x:Class="BookManager.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:BookMenager"
+             xmlns:local="clr-namespace:BookManager"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          

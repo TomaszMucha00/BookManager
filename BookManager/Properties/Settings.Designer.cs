@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace BookMenager.Properties
+namespace BookManager.Properties
 {
 
 
