@@ -1,0 +1,14 @@
+c:\users\varimatras\documents\visual studio 2015\Projects\BookMenager\BookMenager\bin\Debug\BookMenager.exe.config
+c:\users\varimatras\documents\visual studio 2015\Projects\BookMenager\BookMenager\bin\Debug\BookMenager.exe
+c:\users\varimatras\documents\visual studio 2015\Projects\BookMenager\BookMenager\bin\Debug\BookMenager.pdb
+c:\users\varimatras\documents\visual studio 2015\Projects\BookMenager\BookMenager\obj\Debug\BookMenager.csprojResolveAssemblyReference.cache
+c:\users\varimatras\documents\visual studio 2015\Projects\BookMenager\BookMenager\obj\Debug\MainWindow.g.cs
+c:\users\varimatras\documents\visual studio 2015\Projects\BookMenager\BookMenager\obj\Debug\App.g.cs
+c:\users\varimatras\documents\visual studio 2015\Projects\BookMenager\BookMenager\obj\Debug\BookMenager_MarkupCompile.cache
+c:\users\varimatras\documents\visual studio 2015\Projects\BookMenager\BookMenager\obj\Debug\BookMenager_MarkupCompile.lref
+c:\users\varimatras\documents\visual studio 2015\Projects\BookMenager\BookMenager\obj\Debug\MainWindow.baml
+c:\users\varimatras\documents\visual studio 2015\Projects\BookMenager\BookMenager\obj\Debug\BookMenager.g.resources
+c:\users\varimatras\documents\visual studio 2015\Projects\BookMenager\BookMenager\obj\Debug\BookMenager.Properties.Resources.resources
+c:\users\varimatras\documents\visual studio 2015\Projects\BookMenager\BookMenager\obj\Debug\BookMenager.csproj.GenerateResource.Cache
+c:\users\varimatras\documents\visual studio 2015\Projects\BookMenager\BookMenager\obj\Debug\BookMenager.exe
+c:\users\varimatras\documents\visual studio 2015\Projects\BookMenager\BookMenager\obj\Debug\BookMenager.pdb
